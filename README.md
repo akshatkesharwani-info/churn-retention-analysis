@@ -1,17 +1,19 @@
-# Customer Churn Analysis Project
+# 📉 Customer Churn Analysis
 
 ## Objective
-Analyze customer churn and identify factors affecting retention.
+Identify customers likely to leave.
 
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Power BI
+## Dataset
+Telco churn dataset  
 
-## Key Insights
-- Month-to-month customers churn more
-- Low tenure customers are high risk
-- High charges increase churn probability
+## Insights
+- Month-to-month customers churn more  
+- High charges increase churn  
 
-## Files
-- Python Notebook
-- Power BI Dashboard PDF
+## Tools
+Python, Power BI  
+
+## How to Run
+git clone <repo-link>  
+pip install -r requirements.txt  
+jupyter notebook
